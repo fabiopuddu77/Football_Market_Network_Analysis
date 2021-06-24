@@ -1,4 +1,4 @@
-# Football Market Network Analysys
+# Football Market Network Analysis
 
 Questo lavoro ha l’obiettivo di rappresentare tramite la Network Analysis il
 flusso di calcio mercato delle 6 maggiori leghe Europee, cercando di capire
